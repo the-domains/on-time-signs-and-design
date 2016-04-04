@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gun For Hire at The Woodland Park Range
-datePublished: '2016-04-04T19:57:08.455Z'
-dateModified: '2016-04-04T19:56:48.244Z'
+datePublished: '2016-04-04T20:04:35.766Z'
+dateModified: '2016-04-04T19:57:08.770Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-gun-for-hire-at-the-woodland-park-range.md
@@ -39,3 +39,5 @@ Sunday: 8am -- 8pm
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/287e05d0-ecc3-42fe-87dd-3e2f0910b71b.jpg)
 
 1267 McBride Ave, Woodland Park, NJ 07424
+
+(888) 486-3674
