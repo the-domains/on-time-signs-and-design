@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Mu-So by Naim
-datePublished: '2016-04-04T18:08:29.885Z'
-dateModified: '2016-04-04T18:07:28.625Z'
+datePublished: '2016-04-04T18:14:16.179Z'
+dateModified: '2016-04-04T18:11:55.285Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-mu-so-by-naim.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-mu-so-by-naim.md
-published: true
 url: mu-so-by-naim/index.html
 _type: Article
 
