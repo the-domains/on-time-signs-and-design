@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Mu-So by naim
-datePublished: '2016-04-04T16:21:59.575Z'
-dateModified: '2016-04-04T16:21:45.724Z'
+description: Mu-So by Naim
+datePublished: '2016-04-04T18:08:29.885Z'
+dateModified: '2016-04-04T18:07:28.625Z'
 title: ''
 author: []
 authors: []
@@ -22,9 +22,8 @@ url: mu-so-by-naim/index.html
 _type: Article
 
 ---
-[Mu-So by naim][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8ac2c52-ff13-43f3-8ae6-891d573e3c90.jpg)
+[Mu-So by Naim][0]
 
-Let the voice of Naim Audio take you inside the music.
+Let the voice of Naim take you inside the music. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23255e67-4a01-4e0e-bfac-feb1056dff97.jpg)
 
 [0]: https://www.naimaudio.com/mu-so
