@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gun For Hire at The Woodland Park Range
-datePublished: '2016-04-04T19:30:37.480Z'
-dateModified: '2016-04-04T19:30:29.036Z'
+datePublished: '2016-04-04T19:33:11.284Z'
+dateModified: '2016-04-04T19:30:46.807Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-gun-for-hire-at-the-woodland-park-range.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-gun-for-hire-at-the-woodland-park-range.md
-published: true
 url: gun-for-hire-at-the-woodland-park-range/index.html
 _type: Article
 
