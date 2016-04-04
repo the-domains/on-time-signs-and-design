@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Gun For Hire LLC
-datePublished: '2016-04-04T18:19:45.791Z'
-dateModified: '2016-04-04T18:19:34.323Z'
+datePublished: '2016-04-04T18:30:36.728Z'
+dateModified: '2016-04-04T18:22:33.560Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-gun-for-hire-llc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-gun-for-hire-llc.md
-published: true
 url: gun-for-hire-llc/index.html
 _type: Article
 
