@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Auto Wurks Diesel
-datePublished: '2016-04-04T19:13:00.946Z'
-dateModified: '2016-04-04T19:12:53.383Z'
+datePublished: '2016-04-04T19:13:30.116Z'
+dateModified: '2016-04-04T19:13:09.867Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-auto-wurks-diesel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-auto-wurks-diesel.md
-published: true
 url: auto-wurks-diesel/index.html
 _type: Article
 
