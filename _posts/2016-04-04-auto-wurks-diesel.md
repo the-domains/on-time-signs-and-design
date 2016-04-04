@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Auto Wurks Diesel
-datePublished: '2016-04-04T18:20:53.597Z'
-dateModified: '2016-04-04T18:20:53.295Z'
+datePublished: '2016-04-04T18:22:00.847Z'
+dateModified: '2016-04-04T18:20:58.497Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-04-auto-wurks-diesel.md
