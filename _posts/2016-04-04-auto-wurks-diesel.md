@@ -6,27 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: Auto Wurks Diesel
-datePublished: '2016-04-04T18:22:00.847Z'
-dateModified: '2016-04-04T18:20:58.497Z'
+datePublished: '2016-04-04T19:13:00.946Z'
+dateModified: '2016-04-04T19:12:53.383Z'
 title: ''
 author: []
-sourcePath: _posts/2016-04-04-auto-wurks-diesel.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-04-04-auto-wurks-diesel.md
+published: true
 url: auto-wurks-diesel/index.html
 _type: Article
 
 ---
-[Auto Wurks Diesel][0]
+Auto Wurks Diesel
 
-Address: 6 Park Ave, Caldwell, NJ 07006
+Auto Wurks Diesel is on the forefront of diesel technology. An accredited member of the ADS (Association of Diesel Specialits), an elite society of the few who have the years of training, equipment, and experience to be the best hands down.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b26a9ac7-41a9-4444-bccd-aa71aacb3431.jpg)
 
-Phone:(973) 226-7800
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b147e15-b4b5-4d24-b9ff-ead3707f1ce6.jpg)
+6 Park Ave, Caldwell, NJ 07006
 
-[0]: http://www.autowurksdiesel.com/
+(973) 226-7800
+
+autowurks.diesel@verizon.net.
