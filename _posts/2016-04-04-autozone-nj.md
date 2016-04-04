@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: AutoZone (NJ)
-datePublished: '2016-04-04T20:20:15.790Z'
-dateModified: '2016-04-04T20:20:15.024Z'
+datePublished: '2016-04-04T20:44:19.857Z'
+dateModified: '2016-04-04T20:44:03.117Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-autozone-nj.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-autozone-nj.md
-published: true
 url: autozone-nj/index.html
 _type: Article
 
