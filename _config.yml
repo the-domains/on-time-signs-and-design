@@ -1,0 +1,28 @@
+name: 'On Time Signs & Design'
+favicon: null
+layout_spectrum: 0.2449778125155717
+typography_spectrum: 0.8957290325779468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9248745462391526
+  lightness: 0.5753946059849113
+  saturation: 0.6024422908667475
+  rhythmicContrast: 0.011790224350988865
+purpose: []
